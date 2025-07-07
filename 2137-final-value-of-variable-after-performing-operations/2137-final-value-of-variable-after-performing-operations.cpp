@@ -1,12 +1,17 @@
+#include <vector>
+#include <string>
+using namespace std;
+
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
         int X = 0;
-        for (const string& op : operations) {
-            if (op[1] == '+')
-                ++X;   // barhao
-            else
-                --X;   // ghatao
+        for (int i = 0; i < operations.size(); ++i) {
+            if (operations[i] == "++X" || operations[i] == "X++") {
+                ++X;          // barhao
+            } else if (operations[i] == "--X" || operations[i] == "X--") {
+                --X;          // ghatao
+            }
         }
         return X;
     }
