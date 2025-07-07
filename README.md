@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/safwaahmad/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/safwaahmad/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,5 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/safwaahmad/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/safwaahmad/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
