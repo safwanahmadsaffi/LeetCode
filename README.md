@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/safwaahmad/LeetCode/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/safwaahmad/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -30,5 +32,6 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/safwaahmad/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
