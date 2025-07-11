@@ -20,7 +20,7 @@ public:
             }
 
             if (canForm)
-                totalLength += word.length();
+                totalLength += word.size();
         }
 
         return totalLength;
