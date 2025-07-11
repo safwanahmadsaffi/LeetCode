@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 | [1603-running-sum-of-1d-array](https://github.com/safwaahmad/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/safwaahmad/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/safwaahmad/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -13,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +36,16 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/safwaahmad/LeetCode/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
