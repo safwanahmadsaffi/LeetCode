@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/safwaahmad/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/safwaahmad/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/safwaahmad/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/safwaahmad/LeetCode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/safwaahmad/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/safwaahmad/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/safwaahmad/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -59,11 +61,21 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/safwaahmad/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2502-sort-the-people](https://github.com/safwaahmad/LeetCode/tree/master/2502-sort-the-people) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/safwaahmad/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/safwaahmad/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/safwaahmad/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/safwaahmad/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
