@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/safwaahmad/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/safwaahmad/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/safwaahmad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/safwaahmad/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/safwaahmad/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
