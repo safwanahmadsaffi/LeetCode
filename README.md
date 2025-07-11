@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/safwaahmad/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1603-running-sum-of-1d-array](https://github.com/safwaahmad/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/safwaahmad/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/safwaahmad/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -20,6 +21,7 @@
 | [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/safwaahmad/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/safwaahmad/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/safwaahmad/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/safwaahmad/LeetCode/tree/master/2502-sort-the-people) |
