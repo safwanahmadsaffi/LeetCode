@@ -12,6 +12,7 @@
 | [1833-find-the-highest-altitude](https://github.com/safwaahmad/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/safwaahmad/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/safwaahmad/LeetCode/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/safwaahmad/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [1635-number-of-good-pairs](https://github.com/safwaahmad/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/safwaahmad/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/safwaahmad/LeetCode/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/safwaahmad/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
