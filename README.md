@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/safwaahmad/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -56,6 +57,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -78,4 +80,16 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/safwaahmad/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
