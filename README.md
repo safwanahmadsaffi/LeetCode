@@ -51,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/safwaahmad/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/safwaahmad/LeetCode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/safwaahmad/LeetCode/tree/master/1635-number-of-good-pairs) |
