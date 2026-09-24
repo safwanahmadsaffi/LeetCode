@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/safwaahmad/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/safwaahmad/LeetCode/tree/master/0169-majority-element) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/safwaahmad/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/safwanahmadsaffi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
